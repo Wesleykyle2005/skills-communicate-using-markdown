@@ -10,3 +10,9 @@
 var Variable = "Hello, world!";
 print(Variable);
 ```
+
+
+- [x] Primero listo
+- [x] Segundo listo
+- [ ] Tercero aun no listo
+- [ ] Cuarto aun no listo
